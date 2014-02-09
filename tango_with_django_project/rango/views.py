@@ -3,7 +3,7 @@
 from django.shortcuts import render
 
 # Import the Category model
-from rango.models import Category
+from rango.models import Category, Page
 
 # Create your views here.
 
